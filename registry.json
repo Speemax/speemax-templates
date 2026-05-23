@@ -1,0 +1,10 @@
+{
+  "food": {
+    "name": "Food Delivery App",
+    "repo": "https://github.com/Speemax/speemax-template-food"
+  },
+  "fintech": {
+    "name": "Fintech App",
+    "repo": "https://github.com/Speemax/speemax-template-fintech"
+  }
+}
